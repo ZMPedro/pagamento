@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/components/fonts/DIN Condensed Bold.ttf",
+      "sha1": "746d519a1893ee0d2ca00de59f675894f66de861"
+    },
+    {
+      "path": "src/components/fonts/icomoon.ttf",
+      "sha1": "d3c7bf1a8e154ca23d654487253c8cbf708b70ec"
+    },
+    {
+      "path": "src/components/fonts/Icon.js",
+      "sha1": "f43ac7625f22d132922bfb08cb1bf530dad72be5"
+    },
+    {
+      "path": "src/components/fonts/selection.json",
+      "sha1": "f373bb91e794bfebd4ef9047ad55c693948bfff0"
+    },
+    {
+      "path": "src/components/fonts/Tahoma Bold.ttf",
+      "sha1": "12fc4538e84d461771b30c18b5eb6bd434e30fba"
+    },
+    {
+      "path": "src/components/fonts/Tahoma.ttf",
+      "sha1": "b0d36cf5a2fbe746a3dd277bffc6756a820807a7"
+    },
+    {
+      "path": "src/components/icons/ic_credit.png",
+      "sha1": "e54460c2a063b6700e6e75248c1e57553bb5cf6b"
+    },
+    {
+      "path": "src/components/icons/ic_cupom.png",
+      "sha1": "9455654331c47ad7f7e54e504f6add2f44cb371a"
+    },
+    {
+      "path": "src/components/icons/ic_debit.png",
+      "sha1": "d3a70bfb3b5f380fe9304c0b974a457901ec08e3"
+    },
+    {
+      "path": "src/components/icons/ic_logo.png",
+      "sha1": "3e3cae179281840007afa3abb89effbcd6e4039e"
+    },
+    {
+      "path": "src/components/icons/ic_money.png",
+      "sha1": "d0e24837155a9d47ae56a3fcbc42127cfc2d420b"
+    },
+    {
+      "path": "src/components/icons/ic_vr.png",
+      "sha1": "e45431c17da1d1021a34548ea63a6e4519a83ba0"
+    }
+  ]
+}
